@@ -2,14 +2,19 @@
 <h3 align="center">PUSHING TECHNOLOGICAL BOUNDARIES | WEB3 ARCHITECT | INNOVATION ENGINEER</h3>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/bullsvbears/image/upload/v1701153025/SOLANA/Solana%20Logomark/SVG/Solana_Logomark_-_Color_xhsis5.svg" alt="Solana" width="90"/>
+  <a href="https://solana.com">
+    <img src="https://res.cloudinary.com/bullsvbears/image/upload/v1701153025/SOLANA/Solana%20Logomark/SVG/Solana_Logomark_-_Color_xhsis5.svg" alt="Solana" width="90"/>
+  </a>
 </p>
 
 <div align="center">
-  
-[![Twitter Follow](https://img.shields.io/twitter/follow/nfneek?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://x.com/nfneek)
-[![Discord](https://img.shields.io/discord/937480528811978782?color=%237289DA&label=GOALPOST&logo=discord&style=for-the-badge)](https://discord.gg/goalpost)
-  
+  <a href="https://x.com/nfneek">
+    <img src="https://img.shields.io/badge/FOLLOW-@NFNEEK-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow @NFNEEK"/>
+  </a>
+  <a href="https://beta.goalpost.gg">
+    <img src="https://img.shields.io/badge/🎮-GOALPOST-5865F2?style=for-the-badge" alt="GOALPOST"/>
+  </a>
+  <img src="https://img.shields.io/badge/STATUS-INVALID_SERVER-FF3E3E?style=for-the-badge" alt="INVALID SERVER"/>
 </div>
 
 ## ⚡ ABOUT ME
@@ -36,15 +41,15 @@ const NEEK = {
       <h3 align="center">😈 <a href="https://druids.vip">DRUIDS.VIP</a></h3>
       <p align="center">
         <a href="https://druids.vip">
-          <img src="https://via.placeholder.com/400x200/0a0a0a/ffffff?text=DRUIDS+NFT" width="100%" alt="DRUIDS NFT"/>
+          <img src="https://druids.vip/favicon.ico" width="150" alt="DRUIDS NFT"/>
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎲 <a href="https://goalpost.gg">GOALPOST.GG</a></h3>
+      <h3 align="center">🎮 <a href="https://beta.goalpost.gg">GOALPOST.GG</a></h3>
       <p align="center">
-        <a href="https://goalpost.gg">
-          <img src="https://via.placeholder.com/400x200/0a0a0a/ffffff?text=GOALPOST" width="100%" alt="GOALPOST"/>
+        <a href="https://beta.goalpost.gg">
+          <img src="https://beta.goalpost.gg/favicon.ico" width="150" alt="GOALPOST"/>
         </a>
       </p>
       <p align="center">PvP Wagering Card Game with PLAY ON DEMAND BOTS</p>
@@ -57,10 +62,10 @@ const NEEK = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧃 <a href="https://savagestud.io">SAVAGESTUD.IO</a></h3>
+      <h3 align="center">🧃 <a href="https://savage.tech">SAVAGESTUD.IO</a></h3>
       <p align="center">
-        <a href="https://savagestud.io">
-          <img src="https://via.placeholder.com/400x200/0a0a0a/ffffff?text=SAVAGE+STUDIO" width="100%" alt="SAVAGE STUDIO"/>
+        <a href="https://savage.tech">
+          <img src="https://savage.tech/favicon.ico" width="150" alt="SAVAGE STUDIO"/>
         </a>
       </p>
     </td>
@@ -68,7 +73,7 @@ const NEEK = {
       <h3 align="center">⏱️ <a href="https://uneek.life">UNEEK.LIFE</a> 💨</h3>
       <p align="center">
         <a href="https://uneek.life">
-          <img src="https://via.placeholder.com/400x200/0a0a0a/ffffff?text=UNEEK.LIFE" width="100%" alt="UNEEK.LIFE"/>
+          <img src="https://uneek.life/favicon.ico" width="150" alt="UNEEK.LIFE"/>
         </a>
       </p>
     </td>
@@ -77,58 +82,86 @@ const NEEK = {
 
 ## 🚀 COMING NEXT
 
-<div style="background:linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);padding:20px;border-radius:10px;color:white">
-
-- **AFFILIATE PROGRAM**: Reward community builders with automated payouts
 - **CUSTOM PROJECT TABLES**: Tailored gameplay for specific communities
 - **AUTONOMOUS GOAL-BASED HOLDER PAYOUT SYSTEM**: Automatic token distribution based on project milestones
 - **BULLSEYE.BET** 👀: Next-gen prediction platform
 - **BULLISH OR BEARISH** 📉📈: Web3 market sentiment gamification
 
-</div>
-
 ## 💻 TECH STACK
 
-<div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:20px">
+<div align="center">
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/RADIX_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI"/>
+  <img src="https://img.shields.io/badge/FRAMER_MOTION-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+  <img src="https://img.shields.io/badge/TANSTACK_QUERY-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query"/>
+</div>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/SOLANA-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana"/>
+  <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/YARN-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
+  <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </div>
 
 ## 📊 GITHUB STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NFNEEK&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=10" alt="NFNEEK's GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NFNEEK&theme=radical&border_radius=10" alt="NFNEEK's Streak Stats" height="170" />
+  <table>
+    <tr>
+      <td>
+        <div align="center">
+          <h3>uNEEK's GitHub Stats</h3>
+          <p>⭐ Total Stars Earned: 2</p>
+          <p>🕒 Total Commits: 37</p>
+          <p>🔱 Total PRs: 386</p>
+          <p>⚠️ Total Issues: 0</p>
+          <p>📝 Contributed to (last year): 2</p>
+          <h2 align="center">B-</h2>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <h1>1,113</h1>
+          <p>Total Contributions</p>
+          <p>Sep 11, 2022 - Present</p>
+          <h2 align="center">0</h2>
+          <p>Current Streak</p>
+          <p>Apr 8</p>
+          <h2 align="center">11</h2>
+          <p>Longest Streak</p>
+          <p>Oct 15, 2024 - Oct 25, 2024</p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🌐 CONNECT WITH ME
 
 <div align="center">
-  
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nfneek)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/goalpost)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niko@savagestud.io)
-[![Calendly](https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/savagelabs)
-  
+  <a href="https://x.com/nfneek">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://discord.gg/goalpost">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:niko@savagestud.io">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://calendly.com/savagelabs">
+    <img src="https://img.shields.io/badge/SCHEDULE_MEETING-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Schedule Meeting"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nfneek&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile_views-3-8A2BE2?style=flat-square" alt="Profile Views" />
 </div>
 
 <h3 align="center">Building at the intersection of web3 innovation, cutting-edge tech, and stunning user experiences</h3>
