@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://solana.com">
-    <img src="https://res.cloudinary.com/bullsvbears/image/upload/v1701153025/SOLANA/Solana%20Logomark/SVG/Solana_Logomark_-_Color_xhsis5.svg" alt="Solana" width="90"/>
+    <img src="https://cryptologos.cc/logos/solana-sol-logo.png" alt="Solana" width="90"/>
   </a>
 </p>
 
@@ -11,7 +11,7 @@
   <a href="https://x.com/nfneek">
     <img src="https://img.shields.io/badge/FOLLOW-@NFNEEK-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow @NFNEEK"/>
   </a>
-  <a href="https://beta.goalpost.gg">
+  <a href="https://goalpost.gg">
     <img src="https://img.shields.io/badge/🎮-GOALPOST-5865F2?style=for-the-badge" alt="GOALPOST"/>
   </a>
   <img src="https://img.shields.io/badge/STATUS-INVALID_SERVER-FF3E3E?style=for-the-badge" alt="INVALID SERVER"/>
@@ -37,7 +37,7 @@ const NEEK = {
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">😈 <a href="https://druids.vip">DRUIDS.VIP</a></h3>
       <p align="center">
         <a href="https://druids.vip">
@@ -45,11 +45,19 @@ const NEEK = {
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎮 <a href="https://beta.goalpost.gg">GOALPOST.GG</a></h3>
+    <td width="33%" valign="top">
+      <h3 align="center">⏱️ <a href="https://uneek.life">UNEEK.LIFE</a> 💨</h3>
       <p align="center">
-        <a href="https://beta.goalpost.gg">
-          <img src="https://beta.goalpost.gg/favicon.ico" width="150" alt="GOALPOST"/>
+        <a href="https://uneek.life">
+          <img src="https://uneek.life/favicon.ico" width="150" alt="UNEEK.LIFE"/>
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🎮 <a href="https://goalpost.gg">GOALPOST.GG</a></h3>
+      <p align="center">
+        <a href="https://goalpost.gg">
+          <img src="https://cryptologos.cc/logos/loopring-lrc-logo.png" width="150" alt="GOALPOST"/>
         </a>
       </p>
       <p align="center">PvP Wagering Card Game with PLAY ON DEMAND BOTS</p>
@@ -60,31 +68,13 @@ const NEEK = {
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧃 <a href="https://savage.tech">SAVAGESTUD.IO</a></h3>
-      <p align="center">
-        <a href="https://savage.tech">
-          <img src="https://savage.tech/favicon.ico" width="150" alt="SAVAGE STUDIO"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⏱️ <a href="https://uneek.life">UNEEK.LIFE</a> 💨</h3>
-      <p align="center">
-        <a href="https://uneek.life">
-          <img src="https://uneek.life/favicon.ico" width="150" alt="UNEEK.LIFE"/>
-        </a>
-      </p>
-    </td>
-  </tr>
 </table>
 
 ## 🚀 COMING NEXT
 
 - **CUSTOM PROJECT TABLES**: Tailored gameplay for specific communities
 - **AUTONOMOUS GOAL-BASED HOLDER PAYOUT SYSTEM**: Automatic token distribution based on project milestones
-- **BULLSEYE.BET** 👀: Next-gen prediction platform
+- **BONES** 🦴: Next-gen prediction platform 
 - **BULLISH OR BEARISH** 📉📈: Web3 market sentiment gamification
 
 ## 💻 TECH STACK
@@ -113,32 +103,21 @@ const NEEK = {
 <div align="center">
   <table>
     <tr>
-      <td>
-        <div align="center">
-          <h3>uNEEK's GitHub Stats</h3>
-          <p>⭐ Total Stars Earned: 2</p>
-          <p>🕒 Total Commits: 37</p>
-          <p>🔱 Total PRs: 386</p>
-          <p>⚠️ Total Issues: 0</p>
-          <p>📝 Contributed to (last year): 2</p>
-          <h2 align="center">B-</h2>
-        </div>
+      <td width="33%" align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NFNEEK&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="100%"/>
       </td>
-      <td>
-        <div align="center">
-          <h1>1,113</h1>
-          <p>Total Contributions</p>
-          <p>Sep 11, 2022 - Present</p>
-          <h2 align="center">0</h2>
-          <p>Current Streak</p>
-          <p>Apr 8</p>
-          <h2 align="center">11</h2>
-          <p>Longest Streak</p>
-          <p>Oct 15, 2024 - Oct 25, 2024</p>
-        </div>
+      <td width="33%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NFNEEK&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NFNEEK&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="100%"/>
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NFNEEK&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ## 🌐 CONNECT WITH ME
@@ -161,7 +140,7 @@ const NEEK = {
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile_views-3-8A2BE2?style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile_views-4269-8A2BE2?style=flat-square" alt="Profile Views" />
 </div>
 
 <h3 align="center">Building at the intersection of web3 innovation, cutting-edge tech, and stunning user experiences</h3>
