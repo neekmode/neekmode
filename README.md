@@ -8,7 +8,7 @@
 <div align="center">
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/nfneek?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://x.com/nfneek)
-[![Discord](https://img.shields.io/discord/937480528811978782?color=%237289DA&label=GOALPOST&logo=discord&style=for-the-badge)](https://discord.com/goalpost)
+[![Discord](https://img.shields.io/discord/937480528811978782?color=%237289DA&label=GOALPOST&logo=discord&style=for-the-badge)](https://discord.gg/goalpost)
   
 </div>
 
