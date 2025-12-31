@@ -83,19 +83,6 @@ const neek = {
 
 ---
 
-## 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NFNEEK&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9945FF&icon_color=9945FF" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NFNEEK&theme=radical&hide_border=true&background=0d1117&ring=9945FF&fire=9945FF&currStreakLabel=9945FF" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NFNEEK&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9945FF" width="40%" alt="Top Languages"/>
-</p>
-
----
-
 ## 🏆 TROPHIES
 
 <p align="center">
