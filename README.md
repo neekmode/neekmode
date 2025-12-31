@@ -92,12 +92,12 @@ Coming Soon
 
 <div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NFNEEK&theme=black-ice&hide_border=true&background=000000&stroke=000000&ring=9945FF&fire=9945FF&currStreakLabel=9945FF" width="400"/>
+
+<br><br>
+
 [![GitHub](https://img.shields.io/badge/GitHub-neekmode-black?style=flat-square&logo=github)](https://github.com/neekmode)
 [![Discord](https://img.shields.io/badge/Discord-goalpost-black?style=flat-square&logo=discord)](https://discord.gg/goalpost)
 [![Email](https://img.shields.io/badge/Email-neekmode-black?style=flat-square&logo=apple)](mailto:neekmode@icloud.com)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=neekmode&color=black&style=flat-square&label=views)
 
 </div>
