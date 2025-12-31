@@ -25,12 +25,16 @@
 
 ```typescript
 const neek = {
-  founder: ["DRUIDS NFT", "GOALPOST.GG", "SAVAGESTUD.IO"],
+  founder: [
+    "DRUIDS NFT",
+    "GOALPOST.GG",
+    "SAVAGESTUD.IO"
+  ],
   stack: {
-    frontend: ["Next.js 15", "TypeScript", "Tailwind v4", "Framer Motion"],
-    backend: ["Vercel", "Prisma", "MongoDB", "Redis"],
+    frontend:   ["Next.js 15", "TypeScript", "Tailwind v4", "Framer Motion"],
+    backend:    ["Vercel", "Prisma", "MongoDB", "Redis"],
     blockchain: ["Solana", "Anchor", "Rust", "Web3.js"],
-    tools: ["pnpm", "Turbopack", "Claude Code"]
+    tools:      ["pnpm", "Turbopack", "Claude Code"]
   },
   philosophy: "Learn the core concepts, build more efficient solutions"
 };
@@ -38,24 +42,35 @@ const neek = {
 
 ---
 
-## 🔥 PROJECTS
+<h2 align="center">🔥 PROJECTS</h2>
 
+<div align="center">
 <table>
   <tr>
-    <td align="center" width="33%">
-      <h3><a href="https://druids.vip">DRUIDS.VIP</a></h3>
-      <p>NFT Collection & Community</p>
+    <td align="center" width="200">
+      <a href="https://druids.vip">
+        <img src="https://druids.vip/favicon.ico" width="80" alt="DRUIDS"/><br/>
+        <b>DRUIDS.VIP</b>
+      </a>
+      <br/>NFT Collection
     </td>
-    <td align="center" width="33%">
-      <h3><a href="https://savagestud.io">SAVAGESTUD.IO</a></h3>
-      <p>Creative Development Studio</p>
+    <td align="center" width="200">
+      <a href="https://savagestud.io">
+        <img src="https://savagestud.io/favicon.ico" width="80" alt="SAVAGE"/><br/>
+        <b>SAVAGESTUD.IO</b>
+      </a>
+      <br/>Creative Studio
     </td>
-    <td align="center" width="33%">
-      <h3><a href="https://soowhat.now">SOOWHAT.NOW</a></h3>
-      <p>Coming Soon</p>
+    <td align="center" width="200">
+      <a href="https://soowhat.now">
+        <img src="https://soowhat.now/favicon.ico" width="80" alt="SOOWHAT"/><br/>
+        <b>SOOWHAT.NOW</b>
+      </a>
+      <br/>Coming Soon
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -67,7 +82,7 @@ const neek = {
 
 ---
 
-## 💻 TECH STACK
+<h2 align="center">💻 TECH STACK</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
@@ -79,14 +94,6 @@ const neek = {
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm"/>
-</p>
-
----
-
-## 🏆 TROPHIES
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NFNEEK&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%" alt="Trophies"/>
 </p>
 
 ---
