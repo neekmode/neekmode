@@ -58,27 +58,22 @@ const NEEK = {
       <p align="center">NFT Collection & Community</p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">⏱️ <a href="https://uneek.life">UNEEK.LIFE</a></h3>
+      <h3 align="center">🎨 <a href="https://savagestud.io">SAVAGESTUD.IO</a></h3>
       <p align="center">
-        <a href="https://uneek.life">
-          <img src="https://uneek.life/favicon.ico" width="120" alt="UNEEK.LIFE"/>
+        <a href="https://savagestud.io">
+          <img src="https://savagestud.io/favicon.ico" width="120" alt="SAVAGESTUD.IO"/>
         </a>
       </p>
-      <p align="center">Life Optimization Platform</p>
+      <p align="center">Creative Development Studio</p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🎮 <a href="https://goalpost.gg">GOALPOST.GG</a></h3>
+      <h3 align="center">🤔 <a href="https://soowhat.now">SOOWHAT.NOW</a></h3>
       <p align="center">
-        <a href="https://goalpost.gg">
-          <img src="https://goalpost.gg/favicon.ico" width="120" alt="GOALPOST"/>
+        <a href="https://soowhat.now">
+          <img src="https://soowhat.now/favicon.ico" width="120" alt="SOOWHAT.NOW"/>
         </a>
       </p>
-      <p align="center">PvP Wagering Card Game</p>
-      <p align="center">
-        <a href="https://beta.goalpost.gg">BETA</a> |
-        <a href="https://discord.gg/goalpost">DISCORD</a> |
-        <a href="https://x.com/goalpostgg">X</a>
-      </p>
+      <p align="center">Coming Soon</p>
     </td>
   </tr>
 </table>
